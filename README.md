@@ -1,67 +1,44 @@
-# My Algorithm Notes
+# Algorithm Notes
+Hello algorithm lovers and leetcode grinders!
+This repository contains my personal notes and summaries from learning algorithms. These notes cover a variety of algorithmic concepts, data structures, problem-solving techniques, and example problems to help reinforce understanding.
+Most of the contents here are based on the teachings of 
+The course content is based on the teachings of [Zuo Chengyun]((https://github.com/algorithmzuo)). His course(in Chinese) is great and I highly recommended you check it out!
+I hope my notes can help you during your leetcode grinds!
 
-This repository contains my personal notes and summaries from learning algorithms based on the course provided by Zuo Chengyun. These notes cover a variety of algorithmic concepts, data structures, problem-solving techniques, and example problems to help reinforce understanding.
+## What's Covered
 
-## Course Instructor
-
-The course content is based on the teachings of [Zuo Chengyun](https://github.com/zuochengyun). For more details on his courses and resources, you can check out his [GitHub repository](https://github.com/zuochengyun).
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Basic Data Structures](#basic-data-structures)
-3. [Sorting and Searching](#sorting-and-searching)
-4. [Dynamic Programming](#dynamic-programming)
-5. [Graph Algorithms](#graph-algorithms)
-6. [Greedy Algorithms](#greedy-algorithms)
-7. [Advanced Topics](#advanced-topics)
-8. [Resources](#resources)
-
-## Introduction
-
-This section covers fundamental concepts in algorithms, including time complexity, space complexity, and common patterns in algorithmic problem-solving.
-
-## Basic Data Structures
-
-- Arrays
-- Linked Lists
-- Stacks
-- Queues
-- Hash Tables
-- Trees and Binary Trees
-- Heaps
-
-## Sorting and Searching
-
-- Common sorting algorithms (Bubble Sort, Merge Sort, Quick Sort, etc.)
-- Binary Search and its applications
-
-## Dynamic Programming
-
-- Understanding DP
-- Classic problems (Knapsack, Longest Common Subsequence, etc.)
-
-## Graph Algorithms
-
-- Graph representations (Adjacency Matrix/List)
-- Depth-First Search (DFS) and Breadth-First Search (BFS)
-- Dijkstra's Algorithm
-- Minimum Spanning Trees
-
-## Greedy Algorithms
-
-- When and how to use greedy algorithms
-- Classic greedy problems (Activity Selection, Huffman Coding, etc.)
-
-## Advanced Topics
-
-- Segment Trees
+### Techniques
 - Bit Manipulation
-- Advanced Graph Algorithms (Floyd-Warshall, Bellman-Ford)
+- Binary Search
+- Double Pointer
+- Sliding Window
+- Prefix Sum
+- Backtracking
+- Flood Fill
 
-## Resources
+### Sorting
+- Selection Sort, Bubble Sort, Insertion Sort
+- Quick Sort
+- Heap Sort
+- Merge Sort
+- Radix Sort
 
-For more algorithmic courses and lectures by Zuo Chengyun, visit his [GitHub repository](https://github.com/zuochengyun).
+### Data Structures
+- LinkedList
+- Stack
+  - Monotonic Stack
+- Queue
+  - Monotonic Queue
+- Tree
+- Heap (Priority Queue)
+- Trie
+- Disjoint Set (Union Find)
+- Graph
+  - Depth-First Search (DFS)
+  - Breadth-First Search (BFS)
+  - Topological Sort
+  - Minimum Spanning Tree
+  - Shortest Path Algorithms
 
 ## License
 
