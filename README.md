@@ -1,10 +1,14 @@
 # Algorithm Notes
-Hello algorithm lovers and leetcode grinders!
-This repository contains my personal notes and summaries from learning algorithms. These notes cover a variety of algorithmic concepts, data structures, problem-solving techniques, and example problems to help reinforce understanding.
-Most of the contents here are based on the teachings of 
-The course content is based on the teachings of [Zuo Chengyun]((https://github.com/algorithmzuo)). His course(in Chinese) is great and I highly recommended you check it out!
-I hope my notes can help you during your leetcode grinds!
 
+Hello algorithm lovers and LeetCode grinders!
+
+This repository contains my personal notes and summaries from learning algorithms. These notes cover a variety of algorithmic concepts, data structures, problem-solving techniques, and example problems to help reinforce understanding.
+
+Most of the content here is based on the teachings of [Zuo Chengyun](https://github.com/algorithmzuo). His course (in Chinese) is excellent, and I highly recommend you check it out!
+
+I hope my notes can help you during your LeetCode grinds!
+      
+ 
 ## What's Covered
 
 ### Techniques
