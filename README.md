@@ -7,8 +7,18 @@ This repository contains my personal notes and summaries from learning algorithm
 Most of the content here is based on the teachings of [Zuo Chengyun](https://github.com/algorithmzuo). His course (in Chinese) is excellent, and I highly recommend you check it out!
 
 I hope my notes can help you during your LeetCode grinds!
-      
- 
+
+
+### Currently finished(mostly) Notebooks:
+- 01-Sorting
+- 07-Binary Search
+- 08-SlidingWindow
+- 15-Disjoint Set
+- 16-Graph, Topological Sort, Minimal Spanning Tree
+- 17-Shortest Path Algorithms
+- 18-Recursion and Backtracking
+- 19-Nested Problem and Flood Fill
+
 ## What's Covered
 
 ### Techniques
