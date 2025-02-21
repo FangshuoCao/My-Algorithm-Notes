@@ -9,15 +9,11 @@ Most of the content here is based on the teachings of [Zuo Chengyun](https://git
 I hope my notes can help you during your LeetCode grinds!
 
 
-### Currently finished(mostly) Notebooks:
-- 01-Sorting
-- 07-Binary Search
-- 08-SlidingWindow
-- 15-Disjoint Set
-- 16-Graph, Topological Sort, Minimal Spanning Tree
-- 17-Shortest Path Algorithms
-- 18-Recursion and Backtracking
-- 19-Nested Problem and Flood Fill
+### Currently unfinished Notebooks:
+- 0-validator
+- 27-Greedy
+- 28-KMP
+- 29-Manacher
 
 ## What's Covered
 
